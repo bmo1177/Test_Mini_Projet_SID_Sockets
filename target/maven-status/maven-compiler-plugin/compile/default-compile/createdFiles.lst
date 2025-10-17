@@ -1,0 +1,10 @@
+config\DatabaseConfig.class
+dao\InscriptionDAO.class
+dao\EtudiantDAO.class
+model\Etudiant.class
+model\Inscription.class
+client\ScolariteClient.class
+model\Response.class
+server\ScolariteServer$ClientHandler.class
+server\ScolariteServer.class
+model\Request.class
